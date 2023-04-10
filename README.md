@@ -1,5 +1,5 @@
 # Proyecto-Pokeapi
 
-Deploy en azure : 
- **[https://black-sand-07a210c10.1.azurestaticapps.net](https://black-sand-07a210c10.1.azurestaticapps.net)**
+URL NETLIFY : 
+ **https://poetic-tapioca-f80136.netlify.appt](https://poetic-tapioca-f80136.netlify.app)**
 
